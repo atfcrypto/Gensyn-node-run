@@ -1,4 +1,4 @@
-# System Requirements [Click Here](https://github.com/AdityaNarayan02/Gensyn-Node/blob/main/README.md#system-requirements)
+
 
 # Install Dependencies
 
